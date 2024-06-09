@@ -13,7 +13,7 @@ sites:
     url: https://ipv6.xn--sb-lka.org/
     ipv6: true
   - name: Badger
-    url: https://badger.ip.xn--sb-lka.org/
+    url: https://badger.xn--sb-lka.org/
   - name: Matrix
     url: https://matrix.søb.org/_matrix/federation/v1/version
   #- name: IPv6 test
