@@ -20,15 +20,17 @@ sites:
 
 status-website:
   cname: status.xn--sb-lka.org
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://xn--sb-lka.org/static/img/logo.svg
   name: status.søb.org
   introTitle: "Uptime monitor and status page."
   introMessage: This status page uses **real-time** data from [this GitHub repository](https://github.com/nicolaisoeborg/status.xn--sb-lka.org).
   navbar:
     - title: Status
       href: /
-    - title: GitHub
+    - title: Source (GitHub)
       href: https://github.com/$OWNER/$REPO
+    - title: Forside
+      href: https://xn--sb-lka.org/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
