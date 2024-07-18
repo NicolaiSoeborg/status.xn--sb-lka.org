@@ -78,17 +78,19 @@
     "url": "https://matrix.søb.org/_matrix/federation/v1/version",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.xn--sb-lka.org.ico",
     "slug": "matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 785,
-    "timeDay": 886,
-    "timeWeek": 658,
-    "timeMonth": 880,
-    "timeYear": 785,
-    "dailyMinutesDown": {}
+    "time": 783,
+    "timeDay": 798,
+    "timeWeek": 665,
+    "timeMonth": 875,
+    "timeYear": 783,
+    "dailyMinutesDown": {
+      "2024-07-18": 0
+    }
   }
 ]
