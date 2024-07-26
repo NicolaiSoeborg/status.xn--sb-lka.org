@@ -4,72 +4,79 @@
     "url": "https://xn--sb-lka.org/",
     "icon": "https://icons.duckduckgo.com/ip3/xn--sb-lka.org.ico",
     "slug": "forside",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 692,
     "timeDay": 849,
-    "timeWeek": 676,
+    "timeWeek": 692,
     "timeMonth": 796,
     "timeYear": 692,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-26": 0
+    }
   },
   {
     "name": "IP",
     "url": "https://ip.xn--sb-lka.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ip.xn--sb-lka.org.ico",
     "slug": "ip",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 695,
     "timeDay": 741,
-    "timeWeek": 675,
+    "timeWeek": 670,
     "timeMonth": 795,
     "timeYear": 695,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-26": 0
+    }
   },
   {
     "name": "IPv4",
     "url": "https://ipv4.xn--sb-lka.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ipv4.xn--sb-lka.org.ico",
     "slug": "i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 712,
     "timeDay": 877,
-    "timeWeek": 723,
+    "timeWeek": 725,
     "timeMonth": 801,
     "timeYear": 712,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-26": 0
+    }
   },
   {
     "name": "Badger",
     "url": "https://badger.xn--sb-lka.org/",
     "icon": "https://icons.duckduckgo.com/ip3/badger.xn--sb-lka.org.ico",
     "slug": "badger",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 670,
     "timeDay": 844,
-    "timeWeek": 659,
+    "timeWeek": 676,
     "timeMonth": 760,
     "timeYear": 670,
     "dailyMinutesDown": {
+      "2024-07-26": 0,
       "2024-06-09": 4
     }
   },
@@ -78,18 +85,19 @@
     "url": "https://matrix.søb.org/_matrix/federation/v1/version",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.xn--sb-lka.org.ico",
     "slug": "matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.91%",
     "time": 765,
     "timeDay": 882,
-    "timeWeek": 690,
+    "timeWeek": 710,
     "timeMonth": 910,
     "timeYear": 765,
     "dailyMinutesDown": {
+      "2024-07-26": 0,
       "2024-07-18": 60
     }
   }
