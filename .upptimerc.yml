@@ -17,6 +17,18 @@ sites:
     url: https://badger.xn--sb-lka.org/
   - name: Matrix
     url: https://matrix.søb.org/_matrix/federation/v1/version
+  - name: Authoritative DNS NS1
+    check: "tcp-ping"
+    url: ns1.xn--sb-lka.org
+    port: 53
+  - name: Authoritative DNS NS2
+    check: "tcp-ping"
+    url: ns2.xn--sb-lka.org
+    port: 53
+  - name: Authoritative DNS NS13
+    check: "tcp-ping"
+    url: ns13.37.ax
+    port: 53
 
 status-website:
   cname: status.xn--sb-lka.org
