@@ -21,9 +21,9 @@ sites:
     check: "tcp-ping"
     url: ns1.xn--sb-lka.org
     port: 53
-  - name: Authoritative DNS NS2
+  - name: Authoritative DNS ns0.o7.dk
     check: "tcp-ping"
-    url: ns2.xn--sb-lka.org
+    url: ns0.o7.dk
     port: 53
   - name: Authoritative DNS NS13
     check: "tcp-ping"
