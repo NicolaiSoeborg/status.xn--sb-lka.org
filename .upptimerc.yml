@@ -4,6 +4,9 @@ repo: status.xn--sb-lka.org
 sites:
   - name: Forside
     url: https://xn--sb-lka.org/
+  - name: Forside-cert
+    check: "ssl"
+    url: https://xn--sb-lka.org/
   - name: IP
     url: https://ip.xn--sb-lka.org/
   - name: IPv4
