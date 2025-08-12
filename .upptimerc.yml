@@ -6,7 +6,7 @@ sites:
     url: https://xn--sb-lka.org/
   - name: Forside-cert
     check: "ssl"
-    url: https://xn--sb-lka.org/
+    url: xn--sb-lka.org
   - name: IP
     url: https://ip.xn--sb-lka.org/
   - name: IPv4
