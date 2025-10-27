@@ -159,17 +159,17 @@
     "slug": "authoritative-dns-ns-13",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "86.17%",
-    "uptimeWeek": "85.32%",
-    "uptimeMonth": "93.89%",
+    "uptimeDay": "86.78%",
+    "uptimeWeek": "85.41%",
+    "uptimeMonth": "93.86%",
     "uptimeYear": "99.43%",
     "time": 137,
-    "timeDay": 141,
+    "timeDay": 140,
     "timeWeek": 142,
     "timeMonth": 142,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2025-10-26": 199,
+      "2025-10-26": 190,
       "2025-10-25": 62,
       "2025-10-24": 277,
       "2025-10-23": 122,
@@ -186,7 +186,7 @@
       "2025-10-12": 99,
       "2025-10-11": 152,
       "2025-10-10": 79,
-      "2025-10-09": 41
+      "2025-10-09": 64
     }
   }
 ]
