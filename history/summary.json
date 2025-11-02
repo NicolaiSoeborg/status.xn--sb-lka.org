@@ -158,18 +158,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "authoritative-dns-ns-13",
     "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "97.52%",
-    "uptimeWeek": "89.17%",
-    "uptimeMonth": "93.71%",
-    "uptimeYear": "99.43%",
+    "uptime": "99.42%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "89.26%",
+    "uptimeMonth": "93.65%",
+    "uptimeYear": "99.42%",
     "time": 138,
     "timeDay": 145,
-    "timeWeek": 144,
+    "timeWeek": 143,
     "timeMonth": 143,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2025-11-01": 36,
+      "2025-11-01": 27,
       "2025-10-31": 170,
       "2025-10-30": 62,
       "2025-10-29": 150,
@@ -185,7 +185,7 @@
       "2025-10-19": 146,
       "2025-10-18": 74,
       "2025-10-17": 110,
-      "2025-10-16": 51
+      "2025-10-16": 86
     }
   }
 ]
