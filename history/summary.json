@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 686,
-    "timeDay": 651,
-    "timeWeek": 713,
-    "timeMonth": 681,
-    "timeYear": 618,
+    "time": 687,
+    "timeDay": 872,
+    "timeWeek": 710,
+    "timeMonth": 692,
+    "timeYear": 619,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 657,
-    "timeDay": 442,
-    "timeWeek": 570,
-    "timeMonth": 576,
+    "timeDay": 734,
+    "timeWeek": 573,
+    "timeMonth": 587,
     "timeYear": 578,
     "dailyMinutesDown": {}
   },
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 675,
-    "timeDay": 524,
-    "timeWeek": 557,
-    "timeMonth": 572,
+    "timeDay": 567,
+    "timeWeek": 558,
+    "timeMonth": 573,
     "timeYear": 568,
     "dailyMinutesDown": {}
   },
@@ -84,10 +84,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 664,
-    "timeDay": 535,
-    "timeWeek": 555,
-    "timeMonth": 552,
+    "time": 663,
+    "timeDay": 559,
+    "timeWeek": 527,
+    "timeMonth": 553,
     "timeYear": 582,
     "dailyMinutesDown": {}
   },
@@ -103,10 +103,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 659,
-    "timeDay": 420,
-    "timeWeek": 547,
-    "timeMonth": 677,
-    "timeYear": 574,
+    "timeDay": 732,
+    "timeWeek": 551,
+    "timeMonth": 683,
+    "timeYear": 575,
     "dailyMinutesDown": {
       "2025-06-19": 105
     }
@@ -123,9 +123,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.12%",
     "time": 138,
-    "timeDay": 133,
+    "timeDay": 177,
     "timeWeek": 146,
-    "timeMonth": 142,
+    "timeMonth": 144,
     "timeYear": 138,
     "dailyMinutesDown": {
       "2025-01-05": 1319,
@@ -146,9 +146,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 134,
+    "timeDay": 177,
     "timeWeek": 146,
-    "timeMonth": 142,
+    "timeMonth": 144,
     "timeYear": 139,
     "dailyMinutesDown": {}
   },
@@ -159,17 +159,17 @@
     "slug": "authoritative-dns-ns-13",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "85.39%",
-    "uptimeWeek": "86.90%",
-    "uptimeMonth": "93.67%",
+    "uptimeDay": "87.03%",
+    "uptimeWeek": "86.98%",
+    "uptimeMonth": "93.63%",
     "uptimeYear": "99.43%",
     "time": 139,
-    "timeDay": 143,
+    "timeDay": 145,
     "timeWeek": 144,
     "timeMonth": 143,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2025-11-08": 210,
+      "2025-11-08": 201,
       "2025-11-07": 285,
       "2025-11-06": 197,
       "2025-11-05": 184,
@@ -185,7 +185,7 @@
       "2025-10-26": 190,
       "2025-10-25": 62,
       "2025-10-24": 277,
-      "2025-10-23": 32
+      "2025-10-23": 58
     }
   }
 ]
