@@ -79,7 +79,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/badger.xn--sb-lka.org.ico",
     "slug": "badger",
     "status": "up",
-    "uptime": "98.98%",
+    "uptime": "98.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -157,14 +157,14 @@
     "url": "ns13.37.ax",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "authoritative-dns-ns-13",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "87.91%",
-    "uptimeWeek": "85.74%",
-    "uptimeMonth": "93.56%",
+    "uptimeDay": "89.39%",
+    "uptimeWeek": "86.06%",
+    "uptimeMonth": "93.62%",
     "uptimeYear": "99.44%",
     "time": 140,
-    "timeDay": 152,
+    "timeDay": 150,
     "timeWeek": 148,
     "timeMonth": 144,
     "timeYear": 140,
@@ -184,8 +184,7 @@
       "2025-11-05": 184,
       "2025-11-04": 218,
       "2025-11-03": 113,
-      "2025-11-02": 115,
-      "2025-11-01": 27
+      "2025-11-02": 115
     }
   }
 ]
