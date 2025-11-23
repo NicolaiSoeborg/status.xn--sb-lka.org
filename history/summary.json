@@ -22,19 +22,19 @@
     "url": "xn--sb-lka.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "forside-cert",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.97%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-23": 0,
+      "2025-11-23": 36,
       "2025-08-12": 13
     }
   },
@@ -158,11 +158,11 @@
     "url": "ns13.37.ax",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "authoritative-dns-ns-13",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "92.68%",
+    "uptimeDay": "94.91%",
     "uptimeWeek": "86.03%",
-    "uptimeMonth": "93.57%",
+    "uptimeMonth": "93.61%",
     "uptimeYear": "99.45%",
     "time": 141,
     "timeDay": 143,
@@ -170,6 +170,7 @@
     "timeMonth": 144,
     "timeYear": 141,
     "dailyMinutesDown": {
+      "2025-11-23": 0,
       "2025-11-22": 105,
       "2025-11-21": 191,
       "2025-11-20": 295,
@@ -184,7 +185,7 @@
       "2025-11-11": 216,
       "2025-11-10": 193,
       "2025-11-09": 45,
-      "2025-11-08": 101
+      "2025-11-08": 84
     }
   }
 ]
