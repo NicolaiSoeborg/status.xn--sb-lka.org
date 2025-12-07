@@ -158,7 +158,7 @@
     "url": "ns13.37.ax",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "authoritative-dns-ns-13",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
     "uptimeDay": "94.16%",
     "uptimeWeek": "85.95%",
