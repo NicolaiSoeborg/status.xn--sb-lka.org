@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--sb-lka.org.ico",
     "slug": "forside",
     "status": "up",
-    "uptime": "99.03%",
+    "uptime": "99.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -44,7 +44,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ip.xn--sb-lka.org.ico",
     "slug": "ip",
     "status": "up",
-    "uptime": "99.03%",
+    "uptime": "99.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -62,7 +62,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ipv4.xn--sb-lka.org.ico",
     "slug": "i-pv4",
     "status": "up",
-    "uptime": "99.03%",
+    "uptime": "99.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -158,11 +158,11 @@
     "url": "ns13.37.ax",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "authoritative-dns-ns-13",
-    "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "93.83%",
+    "status": "down",
+    "uptime": "99.45%",
+    "uptimeDay": "93.81%",
     "uptimeWeek": "91.31%",
-    "uptimeMonth": "93.15%",
+    "uptimeMonth": "93.21%",
     "uptimeYear": "99.43%",
     "time": 141,
     "timeDay": 155,
@@ -187,7 +187,7 @@
       "2025-11-28": 72,
       "2025-11-27": 205,
       "2025-11-26": 232,
-      "2025-11-25": 227
+      "2025-11-25": 201
     }
   }
 ]
