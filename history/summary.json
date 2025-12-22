@@ -98,7 +98,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/matrix.xn--sb-lka.org.ico",
     "slug": "matrix",
     "status": "up",
-    "uptime": "99.01%",
+    "uptime": "99.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -158,12 +158,12 @@
     "url": "ns13.37.ax",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "authoritative-dns-ns-13",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "93.97%",
+    "uptimeDay": "93.95%",
     "uptimeWeek": "91.05%",
-    "uptimeMonth": "93.58%",
-    "uptimeYear": "99.46%",
+    "uptimeMonth": "93.61%",
+    "uptimeYear": "99.47%",
     "time": 141,
     "timeDay": 143,
     "timeWeek": 139,
@@ -190,7 +190,7 @@
       "2025-12-05": 115,
       "2025-12-04": 292,
       "2025-12-03": 207,
-      "2025-12-02": 94
+      "2025-12-02": 79
     }
   }
 ]
