@@ -97,18 +97,19 @@
     "url": "https://matrix.søb.org/_matrix/federation/v1/version",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.xn--sb-lka.org.ico",
     "slug": "matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 610,
-    "timeDay": 586,
-    "timeWeek": 546,
-    "timeMonth": 570,
+    "time": 609,
+    "timeDay": 564,
+    "timeWeek": 545,
+    "timeMonth": 569,
     "timeYear": 577,
     "dailyMinutesDown": {
+      "2025-12-23": 0,
       "2025-06-19": 105
     }
   },
@@ -160,9 +161,9 @@
     "slug": "authoritative-dns-ns-13",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "88.38%",
-    "uptimeWeek": "91.22%",
-    "uptimeMonth": "93.61%",
+    "uptimeDay": "90.95%",
+    "uptimeWeek": "91.37%",
+    "uptimeMonth": "93.58%",
     "uptimeYear": "99.47%",
     "time": 141,
     "timeDay": 137,
@@ -170,7 +171,7 @@
     "timeMonth": 142,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2025-12-23": 49,
+      "2025-12-23": 34,
       "2025-12-22": 146,
       "2025-12-21": 77,
       "2025-12-20": 138,
@@ -190,7 +191,7 @@
       "2025-12-06": 108,
       "2025-12-05": 115,
       "2025-12-04": 292,
-      "2025-12-03": 161
+      "2025-12-03": 189
     }
   }
 ]
