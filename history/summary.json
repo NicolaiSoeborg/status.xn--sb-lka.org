@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 667,
-    "timeDay": 1004,
-    "timeWeek": 788,
-    "timeMonth": 778,
-    "timeYear": 638,
+    "timeDay": 868,
+    "timeWeek": 823,
+    "timeMonth": 783,
+    "timeYear": 639,
     "dailyMinutesDown": {}
   },
   {
@@ -50,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 636,
-    "timeDay": 935,
-    "timeWeek": 760,
-    "timeMonth": 757,
+    "timeDay": 857,
+    "timeWeek": 808,
+    "timeMonth": 766,
     "timeYear": 592,
     "dailyMinutesDown": {}
   },
@@ -68,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 609,
-    "timeDay": 813,
-    "timeWeek": 630,
-    "timeMonth": 633,
+    "timeDay": 633,
+    "timeWeek": 617,
+    "timeMonth": 641,
     "timeYear": 571,
     "dailyMinutesDown": {}
   },
@@ -86,9 +86,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 634,
-    "timeDay": 684,
-    "timeWeek": 641,
-    "timeMonth": 644,
+    "timeDay": 857,
+    "timeWeek": 690,
+    "timeMonth": 655,
     "timeYear": 601,
     "dailyMinutesDown": {}
   },
@@ -104,10 +104,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 606,
-    "timeDay": 835,
-    "timeWeek": 687,
-    "timeMonth": 592,
-    "timeYear": 580,
+    "timeDay": 648,
+    "timeWeek": 688,
+    "timeMonth": 600,
+    "timeYear": 581,
     "dailyMinutesDown": {
       "2025-06-19": 105
     }
@@ -122,15 +122,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.73%",
+    "uptimeYear": "99.75%",
     "time": 139,
-    "timeDay": 175,
-    "timeWeek": 140,
-    "timeMonth": 147,
+    "timeDay": 131,
+    "timeWeek": 142,
+    "timeMonth": 148,
     "timeYear": 139,
-    "dailyMinutesDown": {
-      "2025-01-05": 1319
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Authoritative DNS ns0.o7.dk",
@@ -144,9 +142,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 140,
-    "timeDay": 176,
-    "timeWeek": 140,
-    "timeMonth": 147,
+    "timeDay": 131,
+    "timeWeek": 142,
+    "timeMonth": 148,
     "timeYear": 140,
     "dailyMinutesDown": {}
   },
@@ -162,7 +160,7 @@
     "uptimeMonth": "94.50%",
     "uptimeYear": "99.54%",
     "time": 141,
-    "timeDay": 138,
+    "timeDay": 136,
     "timeWeek": 142,
     "timeMonth": 142,
     "timeYear": 141,
