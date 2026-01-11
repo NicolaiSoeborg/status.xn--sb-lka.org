@@ -153,12 +153,12 @@
     "url": "ns13.37.ax",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "authoritative-dns-ns-13",
-    "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "82.59%",
+    "status": "down",
+    "uptime": "99.57%",
+    "uptimeDay": "82.58%",
     "uptimeWeek": "83.80%",
-    "uptimeMonth": "94.18%",
-    "uptimeYear": "99.51%",
+    "uptimeMonth": "94.24%",
+    "uptimeYear": "99.52%",
     "time": 141,
     "timeDay": 153,
     "timeWeek": 142,
@@ -178,7 +178,7 @@
       "2026-01-01": 205,
       "2025-12-31": 173,
       "2025-12-30": 149,
-      "2025-12-29": 46
+      "2025-12-29": 20
     }
   }
 ]
