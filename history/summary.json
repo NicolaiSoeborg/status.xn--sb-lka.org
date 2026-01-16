@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 665,
-    "timeDay": 837,
-    "timeWeek": 838,
-    "timeMonth": 805,
-    "timeYear": 646,
+    "timeDay": 794,
+    "timeWeek": 841,
+    "timeMonth": 808,
+    "timeYear": 647,
     "dailyMinutesDown": {}
   },
   {
@@ -50,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 633,
-    "timeDay": 703,
-    "timeWeek": 740,
-    "timeMonth": 739,
+    "timeDay": 717,
+    "timeWeek": 744,
+    "timeMonth": 743,
     "timeYear": 599,
     "dailyMinutesDown": {}
   },
@@ -68,10 +68,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 604,
-    "timeDay": 683,
-    "timeWeek": 612,
-    "timeMonth": 637,
-    "timeYear": 573,
+    "timeDay": 798,
+    "timeWeek": 635,
+    "timeMonth": 644,
+    "timeYear": 574,
     "dailyMinutesDown": {}
   },
   {
@@ -86,9 +86,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 629,
-    "timeDay": 568,
-    "timeWeek": 663,
-    "timeMonth": 672,
+    "timeDay": 702,
+    "timeWeek": 671,
+    "timeMonth": 678,
     "timeYear": 607,
     "dailyMinutesDown": {}
   },
@@ -104,9 +104,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 597,
-    "timeDay": 678,
-    "timeWeek": 757,
-    "timeMonth": 644,
+    "timeDay": 553,
+    "timeWeek": 712,
+    "timeMonth": 645,
     "timeYear": 587,
     "dailyMinutesDown": {
       "2025-06-19": 105
@@ -124,9 +124,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 145,
-    "timeWeek": 149,
-    "timeMonth": 145,
+    "timeDay": 146,
+    "timeWeek": 151,
+    "timeMonth": 146,
     "timeYear": 140,
     "dailyMinutesDown": {}
   },
@@ -143,8 +143,8 @@
     "uptimeYear": "100.00%",
     "time": 140,
     "timeDay": 146,
-    "timeWeek": 149,
-    "timeMonth": 145,
+    "timeWeek": 151,
+    "timeMonth": 146,
     "timeYear": 140,
     "dailyMinutesDown": {}
   },
@@ -154,18 +154,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "authoritative-dns-ns-13",
     "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "87.36%",
-    "uptimeWeek": "84.53%",
-    "uptimeMonth": "94.26%",
-    "uptimeYear": "99.52%",
+    "uptime": "99.56%",
+    "uptimeDay": "88.21%",
+    "uptimeWeek": "84.65%",
+    "uptimeMonth": "94.16%",
+    "uptimeYear": "99.51%",
     "time": 141,
     "timeDay": 138,
     "timeWeek": 145,
     "timeMonth": 141,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2026-01-15": 181,
+      "2026-01-15": 169,
       "2026-01-14": 240,
       "2026-01-13": 228,
       "2026-01-12": 299,
@@ -175,7 +175,7 @@
       "2026-01-08": 225,
       "2026-01-07": 249,
       "2026-01-06": 351,
-      "2026-01-05": 132
+      "2026-01-05": 188
     }
   }
 ]
