@@ -1,7 +1,7 @@
 url: https://matrix.søb.org/_matrix/federation/v1/version
-status: down
-code: 502
-responseTime: 839
-lastUpdated: 2026-01-22T21:15:36.651Z
+status: up
+code: 200
+responseTime: 605
+lastUpdated: 2026-01-22T22:37:57.217Z
 startTime: 2024-06-09T18:52:35.243Z
 generator: Upptime <https://github.com/upptime/upptime>
