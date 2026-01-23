@@ -108,12 +108,12 @@
     "slug": "matrix",
     "status": "up",
     "uptime": "99.04%",
-    "uptimeDay": "94.28%",
+    "uptimeDay": "96.90%",
     "uptimeWeek": "97.59%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.93%",
     "time": 589,
-    "timeDay": 736,
+    "timeDay": 685,
     "timeWeek": 691,
     "timeMonth": 685,
     "timeYear": 592,
@@ -168,12 +168,12 @@
     "url": "ns13.37.ax",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "authoritative-dns-ns-13",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "77.13%",
+    "uptimeDay": "77.10%",
     "uptimeWeek": "84.22%",
-    "uptimeMonth": "93.57%",
-    "uptimeYear": "99.46%",
+    "uptimeMonth": "93.62%",
+    "uptimeYear": "99.47%",
     "time": 141,
     "timeDay": 147,
     "timeWeek": 147,
@@ -192,7 +192,7 @@
       "2026-01-14": 240,
       "2026-01-13": 228,
       "2026-01-12": 299,
-      "2026-01-11": 149
+      "2026-01-11": 128
     }
   }
 ]
